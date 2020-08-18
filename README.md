@@ -1,5 +1,8 @@
 # vue_shop_admin_dashboard
 
+
+ Seperate dashboard for admin access only 
+
 ## Project setup
 ```
 npm install
